@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # How to Achieve GDPR Compliance Without Third-Party Subscriptions: A Guide for Laravel and React
 
 Achieving GDPR (General Data Protection Regulation) compliance is entirely possible without expensive third-party subscriptions. With Laravel as your backend and React as your frontend, you can implement a complete GDPR compliance solution using free tools and open-source libraries.
